@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/curiousNoob/lerna-release-workflow/compare/v0.3.0...v0.3.1) (2021-12-17)
+
+
+### Bug Fixes
+
+* log ([0a70f26](https://github.com/curiousNoob/lerna-release-workflow/commit/0a70f26b4e7f4484ef9bcebe8efd16b7552a0e3f))
+
+
+
+
+
 # 0.3.0 (2021-12-17)
 
 
