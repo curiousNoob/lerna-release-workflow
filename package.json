@@ -13,6 +13,7 @@
     "commit": "git-cz",
     "bootstrap": "lerna bootstrap",
     "publish:ci": "lerna publish from-package --yes",
+    "version:ci:norelease": "lerna version --yes --conventional-commits",
     "version:ci": "lerna version --yes --conventional-commits --create-release github --message 'chore(release): publish'"
   },
   "devDependencies": {
