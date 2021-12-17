@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2021-12-17)
+
+
+### Features
+
+* new ([bdff64d](https://github.com/jonwa/lerna-release-workflow/commit/bdff64d0c53b882c8067c97b7cdc35305cdcdc8b))
+
+
+
+
+
 # 0.1.0 (2020-03-29)
 
 
